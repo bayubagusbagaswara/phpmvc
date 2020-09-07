@@ -1,0 +1,12 @@
+{
+    "editor.minimap.enabled": false,
+    "editor.fontSize": 16,
+    "editor.fontFamily": " 'Source Code Pro', Consolas, 'Courier New', monospace ",
+    "workbench.colorTheme": "Community Material Theme Darker High Contrast",
+    "workbench.iconTheme": "vscode-icons",
+    "editor.formatOnSave": true,
+    "editor.lineHeight": 32,
+    "php.suggest.basic": false,
+    "editor.wordWrap": "on",
+    "php.validate.executablePath": "E:/XAMPP/php/php.exe"
+}
