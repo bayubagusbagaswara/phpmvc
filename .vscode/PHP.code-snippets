@@ -30,6 +30,11 @@
 		"prefix": "w",
 		"body": "->"
 	},
+	"Tanda $": {
+		"scope": "php",
+		"prefix": "e",
+		"body": "$$1 "
+	},
 	"Inline Echo": {
 		"scope": "javascript, html, php",
 		"prefix": "phpp",
